@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img width="737" height="497" alt="image" src="https://github.com/user-attachments/assets/2e945875-e2b2-4bd4-a155-fb201c67b8a9" />
+<img width="733" height="495" alt="image" src="https://github.com/user-attachments/assets/d08f4b98-bb1f-4d1e-9e46-2234009d0218" />
+
 
